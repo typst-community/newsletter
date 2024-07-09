@@ -8,6 +8,8 @@
 - [hydra:0.5.0](https://github.com/tingerrr/hydra/releases/tag/v0.5.0) - A new release supporting LaTeX like header lookup
 - [subpar:0.1.1](https://github.com/tingerrr/subpar/releases/tag/v0.1.1) - A maintenance release fixing various API issues
 
+[Shiroa:0.1.0](https://github.com/typst/packages/pull/748) - A new typst package for creating online books using typst
+
 #### Added
 
 
